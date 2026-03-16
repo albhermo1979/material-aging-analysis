@@ -1,0 +1,334 @@
+Material Code,Material Desc,Product Type,Material Type,UoM,Qty,Amt,Input Date,Days in Stock,Aging Band
+PR-00001,Componente para Refrigerador 00001,Raw Material,Partes para Refrigeradores,PC,2296.0,851517.52,2026-01-18,54,31-60
+PR-00002,Componente para Refrigerador 00002,Raw Material,Partes para Refrigeradores,PC,3592.0,445408.0,2025-10-20,144,121+
+PR-00003,Componente para Refrigerador 00003,Raw Material,Partes para Refrigeradores,PC,8938.0,1926675.28,2025-12-20,83,61-90
+PR-00004,Componente para Refrigerador 00004,Raw Material,Partes para Refrigeradores,PC,2625.0,924236.25,2025-12-17,86,61-90
+PR-00004,Componente para Refrigerador 00004,Raw Material,Partes para Refrigeradores,PC,5524.0,331881.92,2026-03-03,10,0-30
+PR-00004,Componente para Refrigerador 00004,Raw Material,Partes para Refrigeradores,PC,9901.0,1382377.62,2026-03-01,12,0-30
+PR-00004,Componente para Refrigerador 00004,Raw Material,Partes para Refrigeradores,PC,6211.0,301916.71,2026-03-12,1,0-30
+PR-00005,Componente para Refrigerador 00005,Raw Material,Partes para Refrigeradores,PC,5935.0,1738361.5,2025-11-14,119,91-120
+PR-00005,Componente para Refrigerador 00005,Raw Material,Partes para Refrigeradores,PC,4751.0,2341102.76,2026-01-10,62,61-90
+PR-00005,Componente para Refrigerador 00005,Raw Material,Partes para Refrigeradores,PC,4564.0,1059623.88,2025-12-15,88,61-90
+PR-00006,Componente para Refrigerador 00006,Raw Material,Partes para Refrigeradores,PC,4384.0,1551453.76,2026-03-08,5,0-30
+PR-00006,Componente para Refrigerador 00006,Raw Material,Partes para Refrigeradores,PC,2813.0,764376.49,2025-06-03,283,121+
+PR-00006,Componente para Refrigerador 00006,Raw Material,Partes para Refrigeradores,PC,9135.0,1074367.35,2025-11-30,103,91-120
+PR-00007,Componente para Refrigerador 00007,Raw Material,Partes para Refrigeradores,PC,535.0,216391.45,2026-02-15,26,0-30
+PR-00007,Componente para Refrigerador 00007,Raw Material,Partes para Refrigeradores,PC,9302.0,4087484.84,2026-03-01,12,0-30
+PR-00007,Componente para Refrigerador 00007,Raw Material,Partes para Refrigeradores,PC,7527.0,602235.27,2026-03-03,10,0-30
+PR-00008,Componente para Refrigerador 00008,Raw Material,Partes para Refrigeradores,PC,9587.0,2108468.91,2026-01-18,54,31-60
+PR-00008,Componente para Refrigerador 00008,Raw Material,Partes para Refrigeradores,PC,8358.0,2104711.56,2026-01-29,43,31-60
+PR-00009,Componente para Refrigerador 00009,Raw Material,Partes para Refrigeradores,PC,6926.0,2093314.24,2026-02-07,34,31-60
+PR-00010,Componente para Refrigerador 00010,Raw Material,Partes para Refrigeradores,PC,9074.0,3917971.72,2026-03-01,12,0-30
+PR-00010,Componente para Refrigerador 00010,Raw Material,Partes para Refrigeradores,PC,8807.0,3328429.51,2025-12-19,84,61-90
+PR-00010,Componente para Refrigerador 00010,Raw Material,Partes para Refrigeradores,PC,7133.0,624137.5,2026-02-17,24,0-30
+PR-00010,Componente para Refrigerador 00010,Raw Material,Partes para Refrigeradores,PC,8211.0,3147768.96,2026-03-13,0,0-30
+PR-00011,Componente para Refrigerador 00011,Raw Material,Partes para Refrigeradores,PC,8327.0,2568046.8,2026-01-21,51,31-60
+PR-00012,Componente para Refrigerador 00012,Raw Material,Partes para Refrigeradores,PC,8699.0,4002061.94,2026-01-17,55,31-60
+PR-00012,Componente para Refrigerador 00012,Raw Material,Partes para Refrigeradores,PC,5957.0,2624475.49,2025-12-12,91,91-120
+PR-00013,Componente para Refrigerador 00013,Raw Material,Partes para Refrigeradores,PC,1300.0,67561.0,2026-03-06,7,0-30
+PR-00013,Componente para Refrigerador 00013,Raw Material,Partes para Refrigeradores,PC,2070.0,150923.7,2026-01-15,57,31-60
+PR-00013,Componente para Refrigerador 00013,Raw Material,Partes para Refrigeradores,PC,9948.0,2162098.32,2026-01-06,66,61-90
+PR-00014,Componente para Refrigerador 00014,Raw Material,Partes para Refrigeradores,PC,3305.0,1187618.7,2026-02-12,29,0-30
+PR-00014,Componente para Refrigerador 00014,Raw Material,Partes para Refrigeradores,PC,8489.0,1962911.47,2025-12-22,81,61-90
+PR-00015,Componente para Refrigerador 00015,Raw Material,Partes para Refrigeradores,PC,9085.0,1115274.6,2026-03-06,7,0-30
+PR-00015,Componente para Refrigerador 00015,Raw Material,Partes para Refrigeradores,PC,974.0,119003.32,2026-03-06,7,0-30
+PL-00001,Componente para Lavadora 00001,Raw Material,Partes para Lavadoras,PC,4572.0,1544421.6,2025-09-13,181,121+
+PL-00002,Componente para Lavadora 00002,Raw Material,Partes para Lavadoras,PC,9365.0,2737764.1,2025-04-01,346,121+
+PL-00002,Componente para Lavadora 00002,Raw Material,Partes para Lavadoras,PC,3129.0,175912.38,2025-11-17,116,91-120
+PL-00003,Componente para Lavadora 00003,Raw Material,Partes para Lavadoras,PC,897.0,304935.15,2026-01-28,44,31-60
+PL-00003,Componente para Lavadora 00003,Raw Material,Partes para Lavadoras,PC,5569.0,2240353.01,2026-02-21,20,0-30
+PL-00003,Componente para Lavadora 00003,Raw Material,Partes para Lavadoras,PC,7360.0,579158.4,2026-01-05,67,61-90
+PL-00003,Componente para Lavadora 00003,Raw Material,Partes para Lavadoras,PC,1245.0,282776.85,2026-02-02,39,31-60
+PL-00004,Componente para Lavadora 00004,Raw Material,Partes para Lavadoras,PC,1538.0,713508.96,2026-03-12,1,0-30
+PL-00005,Componente para Lavadora 00005,Raw Material,Partes para Lavadoras,PC,6580.0,2975476.0,2026-01-28,44,31-60
+PL-00005,Componente para Lavadora 00005,Raw Material,Partes para Lavadoras,PC,7464.0,1117883.28,2026-03-08,5,0-30
+PL-00006,Componente para Lavadora 00006,Raw Material,Partes para Lavadoras,PC,9499.0,3519474.49,2025-10-29,135,121+
+PL-00006,Componente para Lavadora 00006,Raw Material,Partes para Lavadoras,PC,9581.0,2334219.03,2026-03-12,1,0-30
+PL-00006,Componente para Lavadora 00006,Raw Material,Partes para Lavadoras,PC,8330.0,410252.5,2025-12-26,77,61-90
+PL-00006,Componente para Lavadora 00006,Raw Material,Partes para Lavadoras,PC,3863.0,802924.55,2026-02-08,33,31-60
+PL-00007,Componente para Lavadora 00007,Raw Material,Partes para Lavadoras,PC,6878.0,2284252.58,2026-01-22,50,31-60
+PL-00007,Componente para Lavadora 00007,Raw Material,Partes para Lavadoras,PC,3356.0,1134898.52,2026-01-25,47,31-60
+PL-00008,Componente para Lavadora 00008,Raw Material,Partes para Lavadoras,PC,4925.0,1152647.0,2026-03-06,7,0-30
+PL-00008,Componente para Lavadora 00008,Raw Material,Partes para Lavadoras,PC,7518.0,2363433.66,2025-11-10,123,121+
+PL-00008,Componente para Lavadora 00008,Raw Material,Partes para Lavadoras,PC,8298.0,1161305.1,2025-11-25,108,91-120
+PL-00009,Componente para Lavadora 00009,Raw Material,Partes para Lavadoras,PC,4679.0,408476.7,2025-08-10,215,121+
+PL-00009,Componente para Lavadora 00009,Raw Material,Partes para Lavadoras,PC,8676.0,119989.08,2025-12-03,100,91-120
+PL-00009,Componente para Lavadora 00009,Raw Material,Partes para Lavadoras,PC,1707.0,802426.56,2026-01-02,70,61-90
+PL-00010,Componente para Lavadora 00010,Raw Material,Partes para Lavadoras,PC,9074.0,781906.58,2025-05-06,311,121+
+PL-00010,Componente para Lavadora 00010,Raw Material,Partes para Lavadoras,PC,3345.0,1160280.15,2026-03-04,9,0-30
+PL-00011,Componente para Lavadora 00011,Raw Material,Partes para Lavadoras,PC,842.0,46503.66,2026-02-25,16,0-30
+PL-00011,Componente para Lavadora 00011,Raw Material,Partes para Lavadoras,PC,5474.0,2123090.9,2026-02-28,13,0-30
+PL-00011,Componente para Lavadora 00011,Raw Material,Partes para Lavadoras,PC,9048.0,3219097.44,2026-02-02,39,31-60
+PL-00012,Componente para Lavadora 00012,Raw Material,Partes para Lavadoras,PC,2452.0,680037.68,2026-02-08,33,31-60
+PL-00013,Componente para Lavadora 00013,Raw Material,Partes para Lavadoras,PC,695.0,111929.75,2026-02-23,18,0-30
+PL-00013,Componente para Lavadora 00013,Raw Material,Partes para Lavadoras,PC,5872.0,663183.68,2025-11-15,118,91-120
+PL-00013,Componente para Lavadora 00013,Raw Material,Partes para Lavadoras,PC,9183.0,4070181.09,2026-01-20,52,31-60
+PL-00014,Componente para Lavadora 00014,Raw Material,Partes para Lavadoras,PC,3888.0,1686070.08,2026-02-22,19,0-30
+PL-00014,Componente para Lavadora 00014,Raw Material,Partes para Lavadoras,PC,416.0,40722.24,2026-01-16,56,31-60
+PL-00014,Componente para Lavadora 00014,Raw Material,Partes para Lavadoras,PC,4075.0,573474.75,2026-02-12,29,0-30
+PL-00014,Componente para Lavadora 00014,Raw Material,Partes para Lavadoras,PC,644.0,277377.24,2025-11-30,103,91-120
+PL-00015,Componente para Lavadora 00015,Raw Material,Partes para Lavadoras,PC,5010.0,2064420.6,2026-03-07,6,0-30
+PL-00015,Componente para Lavadora 00015,Raw Material,Partes para Lavadoras,PC,3174.0,651463.5,2025-05-28,289,121+
+R-00001,Resina 00001,Raw Material,Resina,KG,3243.26,74562.55,2025-12-04,99,91-120
+R-00001,Resina 00001,Raw Material,Resina,KG,4397.49,73657.96,2026-02-15,26,0-30
+R-00001,Resina 00001,Raw Material,Resina,KG,2229.36,84225.22,2026-02-23,18,0-30
+R-00002,Resina 00002,Raw Material,Resina,KG,4507.57,61077.57,2025-12-09,94,91-120
+R-00002,Resina 00002,Raw Material,Resina,KG,4635.32,135490.4,2025-12-29,74,61-90
+R-00002,Resina 00002,Raw Material,Resina,KG,1884.69,15360.22,2025-12-19,84,61-90
+R-00003,Resina 00003,Raw Material,Resina,KG,3626.8,67132.07,2025-11-15,118,91-120
+R-00003,Resina 00003,Raw Material,Resina,KG,3516.32,105313.78,2026-03-04,9,0-30
+R-00003,Resina 00003,Raw Material,Resina,KG,3765.86,48315.98,2026-01-28,44,31-60
+R-00004,Resina 00004,Raw Material,Resina,KG,1505.88,36653.12,2026-03-01,12,0-30
+R-00004,Resina 00004,Raw Material,Resina,KG,2264.75,80172.15,2025-12-02,101,91-120
+R-00004,Resina 00004,Raw Material,Resina,KG,3706.21,128420.18,2025-12-17,86,61-90
+R-00005,Resina 00005,Raw Material,Resina,KG,557.6,26675.58,2026-01-20,52,31-60
+R-00005,Resina 00005,Raw Material,Resina,KG,1075.74,6562.01,2026-03-06,7,0-30
+R-00005,Resina 00005,Raw Material,Resina,KG,456.86,10804.74,2026-01-26,46,31-60
+R-00006,Resina 00006,Raw Material,Resina,KG,1295.52,44721.35,2026-01-19,53,31-60
+R-00006,Resina 00006,Raw Material,Resina,KG,4438.78,177684.36,2025-12-18,85,61-90
+R-00007,Resina 00007,Raw Material,Resina,KG,346.07,5609.79,2025-12-20,83,61-90
+R-00007,Resina 00007,Raw Material,Resina,KG,2376.75,68688.07,2025-12-08,95,91-120
+R-00008,Resina 00008,Raw Material,Resina,KG,4093.53,184781.94,2026-01-17,55,31-60
+R-00008,Resina 00008,Raw Material,Resina,KG,4496.32,172928.47,2026-02-28,13,0-30
+R-00008,Resina 00008,Raw Material,Resina,KG,4215.33,73683.97,2026-01-03,69,61-90
+R-00009,Resina 00009,Raw Material,Resina,KG,3596.37,55923.55,2025-11-28,105,91-120
+R-00009,Resina 00009,Raw Material,Resina,KG,778.03,11989.44,2025-12-14,89,61-90
+R-00009,Resina 00009,Raw Material,Resina,KG,2132.85,42422.39,2025-12-06,97,91-120
+R-00009,Resina 00009,Raw Material,Resina,KG,2158.7,98695.76,2026-01-28,44,31-60
+R-00010,Resina 00010,Raw Material,Resina,KG,2437.2,115572.02,2026-01-13,59,31-60
+R-00011,Resina 00011,Raw Material,Resina,KG,4195.07,122579.95,2026-01-29,43,31-60
+R-00011,Resina 00011,Raw Material,Resina,KG,1180.64,17556.12,2026-02-18,23,0-30
+R-00011,Resina 00011,Raw Material,Resina,KG,3377.48,138206.48,2026-02-28,13,0-30
+R-00012,Resina 00012,Raw Material,Resina,KG,2717.21,124475.39,2026-02-15,26,0-30
+R-00012,Resina 00012,Raw Material,Resina,KG,3249.47,36101.61,2025-12-21,82,61-90
+R-00013,Resina 00013,Raw Material,Resina,KG,1137.14,22413.03,2026-02-09,32,31-60
+R-00013,Resina 00013,Raw Material,Resina,KG,4760.9,114118.77,2026-01-13,59,31-60
+R-00013,Resina 00013,Raw Material,Resina,KG,2743.15,137157.5,2025-05-05,312,121+
+R-00013,Resina 00013,Raw Material,Resina,KG,4790.7,32624.67,2026-03-02,11,0-30
+R-00014,Resina 00014,Raw Material,Resina,KG,3144.54,49463.61,2026-02-03,38,31-60
+R-00015,Resina 00015,Raw Material,Resina,KG,3527.38,139366.78,2025-12-06,97,91-120
+R-00015,Resina 00015,Raw Material,Resina,KG,661.21,27684.86,2026-03-08,5,0-30
+R-00015,Resina 00015,Raw Material,Resina,KG,4651.55,143779.41,2026-02-11,30,0-30
+R-00015,Resina 00015,Raw Material,Resina,KG,472.38,17043.47,2026-02-12,29,0-30
+A-00001,Acero 00001,Raw Material,Acero,PC,9847.0,3985179.37,2026-03-10,3,0-30
+A-00001,Acero 00001,Raw Material,Acero,PC,8738.0,1921573.58,2025-08-16,209,121+
+A-00002,Acero 00002,Raw Material,Acero,PC,6892.0,2845982.48,2025-12-02,101,91-120
+A-00002,Acero 00002,Raw Material,Acero,PC,7542.0,2689326.36,2025-12-31,72,61-90
+A-00002,Acero 00002,Raw Material,Acero,PC,4435.0,1382833.0,2025-11-26,107,91-120
+A-00003,Acero 00003,Raw Material,Acero,PC,4407.0,740067.51,2025-11-19,114,91-120
+A-00003,Acero 00003,Raw Material,Acero,PC,7395.0,957578.55,2026-03-06,7,0-30
+A-00003,Acero 00003,Raw Material,Acero,PC,5521.0,132835.26,2025-11-21,112,91-120
+A-00003,Acero 00003,Raw Material,Acero,PC,5823.0,2334673.62,2026-01-31,41,31-60
+A-00004,Acero 00004,Raw Material,Acero,PC,4536.0,1280694.24,2025-11-20,113,91-120
+A-00004,Acero 00004,Raw Material,Acero,PC,6668.0,1662999.2,2025-12-05,98,91-120
+A-00004,Acero 00004,Raw Material,Acero,PC,8051.0,1848590.11,2026-02-03,38,31-60
+A-00005,Acero 00005,Raw Material,Acero,PC,3996.0,639519.84,2026-03-11,2,0-30
+A-00006,Acero 00006,Raw Material,Acero,PC,9027.0,1553456.43,2026-02-26,15,0-30
+A-00006,Acero 00006,Raw Material,Acero,PC,3787.0,261757.44,2026-01-27,45,31-60
+A-00006,Acero 00006,Raw Material,Acero,PC,3043.0,316045.98,2025-11-19,114,91-120
+A-00007,Acero 00007,Raw Material,Acero,PC,9787.0,1455033.29,2025-11-18,115,91-120
+A-00007,Acero 00007,Raw Material,Acero,PC,5922.0,579941.46,2026-03-10,3,0-30
+A-00007,Acero 00007,Raw Material,Acero,PC,755.0,367987.0,2026-01-19,53,31-60
+A-00007,Acero 00007,Raw Material,Acero,PC,8052.0,485294.04,2026-02-01,40,31-60
+A-00008,Acero 00008,Raw Material,Acero,PC,5592.0,561101.28,2026-02-23,18,0-30
+A-00009,Acero 00009,Raw Material,Acero,PC,1080.0,222858.0,2026-03-05,8,0-30
+A-00010,Acero 00010,Raw Material,Acero,PC,2454.0,999906.84,2026-01-21,51,31-60
+A-00011,Acero 00011,Raw Material,Acero,PC,6828.0,2096878.8,2025-05-01,316,121+
+A-00011,Acero 00011,Raw Material,Acero,PC,6242.0,1440341.5,2026-01-22,50,31-60
+A-00011,Acero 00011,Raw Material,Acero,PC,5013.0,1446902.19,2026-02-01,40,31-60
+A-00012,Acero 00012,Raw Material,Acero,PC,3467.0,484270.56,2026-01-08,64,61-90
+A-00013,Acero 00013,Raw Material,Acero,PC,2574.0,29111.94,2026-02-03,38,31-60
+A-00014,Acero 00014,Raw Material,Acero,PC,3802.0,574748.34,2025-11-04,129,121+
+A-00014,Acero 00014,Raw Material,Acero,PC,3834.0,1774068.48,2025-10-25,139,121+
+A-00014,Acero 00014,Raw Material,Acero,PC,3251.0,709758.32,2026-02-16,25,0-30
+A-00014,Acero 00014,Raw Material,Acero,PC,4362.0,1810448.1,2026-02-03,38,31-60
+A-00015,Acero 00015,Raw Material,Acero,PC,9335.0,4306982.3,2026-02-05,36,31-60
+PQ-00001,Producto Quimico 00001,Raw Material,Productos Quimicos,KG,2072.29,35747.0,2026-03-10,3,0-30
+PQ-00001,Producto Quimico 00001,Raw Material,Productos Quimicos,KG,295.32,7217.62,2026-02-24,17,0-30
+PQ-00001,Producto Quimico 00001,Raw Material,Productos Quimicos,KG,1221.73,43175.94,2026-01-03,69,61-90
+PQ-00001,Producto Quimico 00001,Raw Material,Productos Quimicos,KG,3394.18,58142.3,2026-01-23,49,31-60
+PQ-00002,Producto Quimico 00002,Raw Material,Productos Quimicos,KG,3292.4,152174.73,2026-02-17,24,0-30
+PQ-00003,Producto Quimico 00003,Raw Material,Productos Quimicos,KG,4848.37,126784.88,2026-02-23,18,0-30
+PQ-00003,Producto Quimico 00003,Raw Material,Productos Quimicos,KG,4302.89,85369.34,2025-10-17,147,121+
+PQ-00004,Producto Quimico 00004,Raw Material,Productos Quimicos,KG,2795.47,71200.62,2026-03-04,9,0-30
+PQ-00004,Producto Quimico 00004,Raw Material,Productos Quimicos,KG,2080.46,58585.75,2026-03-03,10,0-30
+PQ-00004,Producto Quimico 00004,Raw Material,Productos Quimicos,KG,2124.91,28558.79,2026-01-20,52,31-60
+PQ-00004,Producto Quimico 00004,Raw Material,Productos Quimicos,KG,2266.0,16587.12,2025-06-05,281,121+
+PQ-00005,Producto Quimico 00005,Raw Material,Productos Quimicos,KG,4416.15,118396.98,2026-02-24,17,0-30
+PQ-00005,Producto Quimico 00005,Raw Material,Productos Quimicos,KG,3577.94,67909.3,2025-12-23,80,61-90
+PQ-00005,Producto Quimico 00005,Raw Material,Productos Quimicos,KG,4962.06,228651.72,2025-12-10,93,91-120
+PQ-00006,Producto Quimico 00006,Raw Material,Productos Quimicos,KG,2542.04,94690.99,2026-02-11,30,0-30
+PQ-00006,Producto Quimico 00006,Raw Material,Productos Quimicos,KG,2464.25,64686.56,2026-01-03,69,61-90
+PQ-00006,Producto Quimico 00006,Raw Material,Productos Quimicos,KG,4617.15,128679.97,2026-01-24,48,31-60
+PQ-00006,Producto Quimico 00006,Raw Material,Productos Quimicos,KG,3886.11,168851.48,2025-12-15,88,61-90
+PQ-00007,Producto Quimico 00007,Raw Material,Productos Quimicos,KG,112.57,4240.51,2025-12-26,77,61-90
+PQ-00007,Producto Quimico 00007,Raw Material,Productos Quimicos,KG,4339.78,108885.08,2026-01-23,49,31-60
+PQ-00007,Producto Quimico 00007,Raw Material,Productos Quimicos,KG,2762.81,70424.03,2026-02-26,15,0-30
+PQ-00008,Producto Quimico 00008,Raw Material,Productos Quimicos,KG,1976.56,86019.89,2025-12-05,98,91-120
+PQ-00008,Producto Quimico 00008,Raw Material,Productos Quimicos,KG,3555.62,147593.79,2026-02-09,32,31-60
+PQ-00008,Producto Quimico 00008,Raw Material,Productos Quimicos,KG,4906.01,133885.01,2026-03-01,12,0-30
+PQ-00009,Producto Quimico 00009,Raw Material,Productos Quimicos,KG,591.79,25464.72,2026-03-09,4,0-30
+PQ-00010,Producto Quimico 00010,Raw Material,Productos Quimicos,KG,806.36,35633.05,2025-12-28,75,61-90
+PQ-00011,Producto Quimico 00011,Raw Material,Productos Quimicos,KG,3153.97,72194.37,2025-12-17,86,61-90
+PQ-00011,Producto Quimico 00011,Raw Material,Productos Quimicos,KG,4310.78,95268.24,2026-03-11,2,0-30
+PQ-00012,Producto Quimico 00012,Raw Material,Productos Quimicos,KG,4374.68,28960.38,2026-01-19,53,31-60
+PQ-00012,Producto Quimico 00012,Raw Material,Productos Quimicos,KG,1508.16,22984.36,2026-03-11,2,0-30
+PQ-00012,Producto Quimico 00012,Raw Material,Productos Quimicos,KG,3549.07,33787.15,2026-01-08,64,61-90
+PQ-00013,Producto Quimico 00013,Raw Material,Productos Quimicos,KG,1689.44,12721.48,2026-02-19,22,0-30
+PQ-00013,Producto Quimico 00013,Raw Material,Productos Quimicos,KG,2702.71,82351.57,2025-12-29,74,61-90
+PQ-00014,Producto Quimico 00014,Raw Material,Productos Quimicos,KG,1974.47,70567.56,2026-02-05,36,31-60
+PQ-00014,Producto Quimico 00014,Raw Material,Productos Quimicos,KG,2359.63,38768.72,2025-09-14,180,121+
+PQ-00015,Producto Quimico 00015,Raw Material,Productos Quimicos,KG,4515.93,160270.36,2026-02-20,21,0-30
+PQ-00015,Producto Quimico 00015,Raw Material,Productos Quimicos,KG,1565.86,75615.38,2026-02-08,33,31-60
+PQ-00015,Producto Quimico 00015,Raw Material,Productos Quimicos,KG,1076.16,24009.13,2026-02-19,22,0-30
+TE-00001,Tarjeta Electronica 00001,Semi Ensamble,Tarjetas Electronicas,PC,9427.0,1460996.46,2025-08-13,212,121+
+TE-00001,Tarjeta Electronica 00001,Semi Ensamble,Tarjetas Electronicas,PC,6494.0,938383.0,2025-11-16,117,91-120
+TE-00001,Tarjeta Electronica 00001,Semi Ensamble,Tarjetas Electronicas,PC,813.0,370890.6,2026-02-23,18,0-30
+TE-00001,Tarjeta Electronica 00001,Semi Ensamble,Tarjetas Electronicas,PC,4699.0,1833126.89,2025-12-16,87,61-90
+TE-00002,Tarjeta Electronica 00002,Semi Ensamble,Tarjetas Electronicas,PC,3125.0,982000.0,2025-12-05,98,91-120
+TE-00002,Tarjeta Electronica 00002,Semi Ensamble,Tarjetas Electronicas,PC,2250.0,715140.0,2025-12-19,84,61-90
+TE-00003,Tarjeta Electronica 00003,Semi Ensamble,Tarjetas Electronicas,PC,5987.0,2208364.82,2026-01-16,56,31-60
+TE-00004,Tarjeta Electronica 00004,Semi Ensamble,Tarjetas Electronicas,PC,2887.0,312921.93,2026-02-12,29,0-30
+TE-00005,Tarjeta Electronica 00005,Semi Ensamble,Tarjetas Electronicas,PC,2705.0,367663.6,2026-02-25,16,0-30
+TE-00005,Tarjeta Electronica 00005,Semi Ensamble,Tarjetas Electronicas,PC,5559.0,2246225.13,2025-12-03,100,91-120
+TE-00005,Tarjeta Electronica 00005,Semi Ensamble,Tarjetas Electronicas,PC,6521.0,3155903.16,2025-09-16,178,121+
+TE-00006,Tarjeta Electronica 00006,Semi Ensamble,Tarjetas Electronicas,PC,8801.0,620998.56,2025-12-30,73,61-90
+TE-00006,Tarjeta Electronica 00006,Semi Ensamble,Tarjetas Electronicas,PC,9587.0,1885762.9,2026-01-20,52,31-60
+TE-00006,Tarjeta Electronica 00006,Semi Ensamble,Tarjetas Electronicas,PC,7734.0,172158.84,2026-01-30,42,31-60
+TE-00007,Tarjeta Electronica 00007,Semi Ensamble,Tarjetas Electronicas,PC,7616.0,3469849.6,2026-01-04,68,61-90
+TE-00007,Tarjeta Electronica 00007,Semi Ensamble,Tarjetas Electronicas,PC,752.0,356199.84,2025-12-09,94,91-120
+TE-00007,Tarjeta Electronica 00007,Semi Ensamble,Tarjetas Electronicas,PC,8817.0,674324.16,2025-12-09,94,91-120
+TE-00008,Tarjeta Electronica 00008,Semi Ensamble,Tarjetas Electronicas,PC,8860.0,1908178.2,2025-11-20,113,91-120
+TE-00008,Tarjeta Electronica 00008,Semi Ensamble,Tarjetas Electronicas,PC,1632.0,683008.32,2026-01-07,65,61-90
+TE-00008,Tarjeta Electronica 00008,Semi Ensamble,Tarjetas Electronicas,PC,6080.0,708076.8,2026-02-22,19,0-30
+TE-00008,Tarjeta Electronica 00008,Semi Ensamble,Tarjetas Electronicas,PC,6028.0,1668490.12,2026-02-27,14,0-30
+TE-00009,Tarjeta Electronica 00009,Semi Ensamble,Tarjetas Electronicas,PC,7460.0,409703.2,2025-12-06,97,91-120
+TE-00009,Tarjeta Electronica 00009,Semi Ensamble,Tarjetas Electronicas,PC,838.0,331454.14,2025-12-22,81,61-90
+TE-00009,Tarjeta Electronica 00009,Semi Ensamble,Tarjetas Electronicas,PC,1134.0,472435.74,2026-03-06,7,0-30
+TE-00010,Tarjeta Electronica 00010,Semi Ensamble,Tarjetas Electronicas,PC,5393.0,2100249.92,2026-02-23,18,0-30
+TE-00010,Tarjeta Electronica 00010,Semi Ensamble,Tarjetas Electronicas,PC,2380.0,1175458.2,2025-12-23,80,61-90
+TE-00011,Tarjeta Electronica 00011,Semi Ensamble,Tarjetas Electronicas,PC,432.0,32218.56,2026-02-16,25,0-30
+TE-00011,Tarjeta Electronica 00011,Semi Ensamble,Tarjetas Electronicas,PC,5314.0,94217.22,2026-03-02,11,0-30
+TE-00011,Tarjeta Electronica 00011,Semi Ensamble,Tarjetas Electronicas,PC,8629.0,566839.01,2026-02-09,32,31-60
+TE-00012,Tarjeta Electronica 00012,Semi Ensamble,Tarjetas Electronicas,PC,9736.0,617651.84,2025-12-18,85,61-90
+TE-00013,Tarjeta Electronica 00013,Semi Ensamble,Tarjetas Electronicas,PC,8553.0,1349663.4,2026-01-10,62,61-90
+TE-00013,Tarjeta Electronica 00013,Semi Ensamble,Tarjetas Electronicas,PC,6590.0,1442353.3,2026-02-21,20,0-30
+TE-00014,Tarjeta Electronica 00014,Semi Ensamble,Tarjetas Electronicas,PC,1333.0,223717.39,2025-12-13,90,61-90
+TE-00015,Tarjeta Electronica 00015,Semi Ensamble,Tarjetas Electronicas,PC,9600.0,2675424.0,2026-03-11,2,0-30
+TE-00015,Tarjeta Electronica 00015,Semi Ensamble,Tarjetas Electronicas,PC,7443.0,1918209.96,2026-01-29,43,31-60
+PI-00001,Parte Inyectada 00001,Semi Ensamble,Partes Inyectadas,PC,9043.0,3284508.03,2025-12-20,83,61-90
+PI-00001,Parte Inyectada 00001,Semi Ensamble,Partes Inyectadas,PC,6789.0,1195407.12,2025-12-28,75,61-90
+PI-00001,Parte Inyectada 00001,Semi Ensamble,Partes Inyectadas,PC,5130.0,1124034.3,2025-11-19,114,91-120
+PI-00001,Parte Inyectada 00001,Semi Ensamble,Partes Inyectadas,PC,7780.0,333762.0,2025-12-31,72,61-90
+PI-00002,Parte Inyectada 00002,Semi Ensamble,Partes Inyectadas,PC,6115.0,2493513.55,2026-01-08,64,61-90
+PI-00003,Parte Inyectada 00003,Semi Ensamble,Partes Inyectadas,PC,2012.0,425135.6,2026-02-23,18,0-30
+PI-00004,Parte Inyectada 00004,Semi Ensamble,Partes Inyectadas,PC,9847.0,1606045.7,2026-01-12,60,31-60
+PI-00004,Parte Inyectada 00004,Semi Ensamble,Partes Inyectadas,PC,7910.0,948250.8,2026-03-10,3,0-30
+PI-00004,Parte Inyectada 00004,Semi Ensamble,Partes Inyectadas,PC,1892.0,725922.56,2026-03-10,3,0-30
+PI-00004,Parte Inyectada 00004,Semi Ensamble,Partes Inyectadas,PC,9200.0,4485276.0,2025-04-10,337,121+
+PI-00005,Parte Inyectada 00005,Semi Ensamble,Partes Inyectadas,PC,4391.0,106218.29,2026-01-12,60,31-60
+PI-00006,Parte Inyectada 00006,Semi Ensamble,Partes Inyectadas,PC,5761.0,74835.39,2025-11-13,120,91-120
+PI-00006,Parte Inyectada 00006,Semi Ensamble,Partes Inyectadas,PC,1150.0,91448.0,2025-12-24,79,61-90
+PI-00006,Parte Inyectada 00006,Semi Ensamble,Partes Inyectadas,PC,3534.0,686797.56,2025-11-19,114,91-120
+PI-00007,Parte Inyectada 00007,Semi Ensamble,Partes Inyectadas,PC,5324.0,2079820.6,2026-02-05,36,31-60
+PI-00007,Parte Inyectada 00007,Semi Ensamble,Partes Inyectadas,PC,2559.0,222965.67,2026-01-09,63,61-90
+PI-00007,Parte Inyectada 00007,Semi Ensamble,Partes Inyectadas,PC,7269.0,2430390.15,2026-02-09,32,31-60
+PI-00007,Parte Inyectada 00007,Semi Ensamble,Partes Inyectadas,PC,3541.0,1345296.72,2026-02-26,15,0-30
+PI-00008,Parte Inyectada 00008,Semi Ensamble,Partes Inyectadas,PC,9727.0,2416673.15,2026-01-08,64,61-90
+PI-00009,Parte Inyectada 00009,Semi Ensamble,Partes Inyectadas,PC,135.0,14872.95,2026-03-12,1,0-30
+PI-00009,Parte Inyectada 00009,Semi Ensamble,Partes Inyectadas,PC,4196.0,637078.68,2026-02-11,30,0-30
+PI-00009,Parte Inyectada 00009,Semi Ensamble,Partes Inyectadas,PC,2888.0,211690.4,2025-12-27,76,61-90
+PI-00010,Parte Inyectada 00010,Semi Ensamble,Partes Inyectadas,PC,5812.0,263399.84,2026-02-25,16,0-30
+PI-00010,Parte Inyectada 00010,Semi Ensamble,Partes Inyectadas,PC,7542.0,3479652.54,2025-11-08,125,121+
+PI-00011,Parte Inyectada 00011,Semi Ensamble,Partes Inyectadas,PC,6853.0,1040696.58,2025-05-15,302,121+
+PI-00011,Parte Inyectada 00011,Semi Ensamble,Partes Inyectadas,PC,7548.0,3152724.12,2025-04-21,326,121+
+PI-00011,Parte Inyectada 00011,Semi Ensamble,Partes Inyectadas,PC,1744.0,225377.12,2026-01-30,42,31-60
+PI-00012,Parte Inyectada 00012,Semi Ensamble,Partes Inyectadas,PC,5572.0,660672.04,2026-02-25,16,0-30
+PI-00012,Parte Inyectada 00012,Semi Ensamble,Partes Inyectadas,PC,1878.0,507060.0,2025-06-03,283,121+
+PI-00012,Parte Inyectada 00012,Semi Ensamble,Partes Inyectadas,PC,2429.0,305495.33,2026-01-13,59,31-60
+PI-00012,Parte Inyectada 00012,Semi Ensamble,Partes Inyectadas,PC,2514.0,961630.14,2025-06-11,275,121+
+PI-00013,Parte Inyectada 00013,Semi Ensamble,Partes Inyectadas,PC,9246.0,3535115.64,2025-07-17,239,121+
+PI-00014,Parte Inyectada 00014,Semi Ensamble,Partes Inyectadas,PC,5305.0,2299611.4,2025-11-24,109,91-120
+PI-00014,Parte Inyectada 00014,Semi Ensamble,Partes Inyectadas,PC,7692.0,1743622.56,2026-02-21,20,0-30
+PI-00014,Parte Inyectada 00014,Semi Ensamble,Partes Inyectadas,PC,5776.0,1493673.6,2026-01-16,56,31-60
+PI-00014,Parte Inyectada 00014,Semi Ensamble,Partes Inyectadas,PC,6051.0,2526474.03,2025-12-11,92,91-120
+PI-00015,Parte Inyectada 00015,Semi Ensamble,Partes Inyectadas,PC,9743.0,2518175.78,2026-01-14,58,31-60
+RF-00001,Refrigerador 00001,Producto Terminado,Refrigeradores,PC,682.0,157112.34,2026-02-23,18,0-30
+RF-00001,Refrigerador 00001,Producto Terminado,Refrigeradores,PC,9922.0,2411641.32,2025-12-22,81,61-90
+RF-00001,Refrigerador 00001,Producto Terminado,Refrigeradores,PC,5636.0,2769361.32,2025-04-19,328,121+
+RF-00001,Refrigerador 00001,Producto Terminado,Refrigeradores,PC,4069.0,1451534.37,2025-12-22,81,61-90
+RF-00002,Refrigerador 00002,Producto Terminado,Refrigeradores,PC,6118.0,2812995.22,2025-12-23,80,61-90
+RF-00002,Refrigerador 00002,Producto Terminado,Refrigeradores,PC,9805.0,349646.3,2026-03-01,12,0-30
+RF-00002,Refrigerador 00002,Producto Terminado,Refrigeradores,PC,1558.0,441537.2,2026-01-01,71,61-90
+RF-00002,Refrigerador 00002,Producto Terminado,Refrigeradores,PC,9884.0,4328302.44,2025-04-08,339,121+
+RF-00003,Refrigerador 00003,Producto Terminado,Refrigeradores,PC,5741.0,930099.41,2026-03-11,2,0-30
+RF-00003,Refrigerador 00003,Producto Terminado,Refrigeradores,PC,9759.0,3487183.47,2026-01-19,53,31-60
+RF-00003,Refrigerador 00003,Producto Terminado,Refrigeradores,PC,5391.0,2202007.86,2025-11-30,103,91-120
+RF-00004,Refrigerador 00004,Producto Terminado,Refrigeradores,PC,308.0,57802.36,2025-12-29,74,61-90
+RF-00005,Refrigerador 00005,Producto Terminado,Refrigeradores,PC,3155.0,381786.55,2026-01-01,71,61-90
+RF-00005,Refrigerador 00005,Producto Terminado,Refrigeradores,PC,1667.0,431369.59,2026-01-09,63,61-90
+RF-00006,Refrigerador 00006,Producto Terminado,Refrigeradores,PC,2157.0,652816.05,2026-01-31,41,31-60
+RF-00007,Refrigerador 00007,Producto Terminado,Refrigeradores,PC,2722.0,989120.36,2026-03-08,5,0-30
+RF-00007,Refrigerador 00007,Producto Terminado,Refrigeradores,PC,3901.0,1892375.1,2025-11-21,112,91-120
+RF-00008,Refrigerador 00008,Producto Terminado,Refrigeradores,PC,8759.0,1114057.21,2025-11-28,105,91-120
+RF-00008,Refrigerador 00008,Producto Terminado,Refrigeradores,PC,3188.0,606485.12,2025-11-27,106,91-120
+RF-00008,Refrigerador 00008,Producto Terminado,Refrigeradores,PC,4626.0,1810061.28,2025-04-30,317,121+
+RF-00009,Refrigerador 00009,Producto Terminado,Refrigeradores,PC,9916.0,771663.12,2026-02-05,36,31-60
+RF-00009,Refrigerador 00009,Producto Terminado,Refrigeradores,PC,6091.0,1715956.52,2026-02-09,32,31-60
+RF-00009,Refrigerador 00009,Producto Terminado,Refrigeradores,PC,2052.0,307143.36,2025-11-26,107,91-120
+RF-00009,Refrigerador 00009,Producto Terminado,Refrigeradores,PC,8420.0,692124.0,2026-01-03,69,61-90
+RF-00010,Refrigerador 00010,Producto Terminado,Refrigeradores,PC,5737.0,2673040.41,2026-01-04,68,61-90
+RF-00010,Refrigerador 00010,Producto Terminado,Refrigeradores,PC,3872.0,771379.84,2025-11-26,107,91-120
+RF-00010,Refrigerador 00010,Producto Terminado,Refrigeradores,PC,1633.0,687819.6,2025-12-12,91,91-120
+RF-00010,Refrigerador 00010,Producto Terminado,Refrigeradores,PC,637.0,95913.09,2026-01-31,41,31-60
+RF-00011,Refrigerador 00011,Producto Terminado,Refrigeradores,PC,7695.0,1768387.95,2026-01-15,57,31-60
+RF-00011,Refrigerador 00011,Producto Terminado,Refrigeradores,PC,3543.0,1484977.59,2026-03-13,0,0-30
+RF-00011,Refrigerador 00011,Producto Terminado,Refrigeradores,PC,1831.0,714675.92,2025-12-23,80,61-90
+RF-00011,Refrigerador 00011,Producto Terminado,Refrigeradores,PC,6888.0,2225443.92,2026-03-06,7,0-30
+RF-00012,Refrigerador 00012,Producto Terminado,Refrigeradores,PC,9786.0,2668348.62,2026-02-07,34,31-60
+RF-00012,Refrigerador 00012,Producto Terminado,Refrigeradores,PC,2362.0,360724.64,2026-01-25,47,31-60
+RF-00012,Refrigerador 00012,Producto Terminado,Refrigeradores,PC,6835.0,695666.3,2026-03-13,0,0-30
+RF-00012,Refrigerador 00012,Producto Terminado,Refrigeradores,PC,8628.0,2386504.8,2025-12-26,77,61-90
+RF-00013,Refrigerador 00013,Producto Terminado,Refrigeradores,PC,6348.0,3115027.08,2026-03-01,12,0-30
+RF-00014,Refrigerador 00014,Producto Terminado,Refrigeradores,PC,5659.0,725200.85,2026-02-18,23,0-30
+RF-00014,Refrigerador 00014,Producto Terminado,Refrigeradores,PC,5457.0,411294.09,2025-11-18,115,91-120
+RF-00014,Refrigerador 00014,Producto Terminado,Refrigeradores,PC,2878.0,1199809.42,2026-01-24,48,31-60
+RF-00015,Refrigerador 00015,Producto Terminado,Refrigeradores,PC,2219.0,90801.48,2026-02-19,22,0-30
+RF-00015,Refrigerador 00015,Producto Terminado,Refrigeradores,PC,727.0,289084.28,2026-01-27,45,31-60
+RF-00015,Refrigerador 00015,Producto Terminado,Refrigeradores,PC,8454.0,1734169.02,2025-11-13,120,91-120
+RF-00015,Refrigerador 00015,Producto Terminado,Refrigeradores,PC,3141.0,471746.79,2026-02-15,26,0-30
+LV-00001,Lavadora 00001,Producto Terminado,Lavadoras,PC,6039.0,1353400.29,2026-01-01,71,61-90
+LV-00002,Lavadora 00002,Producto Terminado,Lavadoras,PC,3070.0,777139.8,2026-02-18,23,0-30
+LV-00002,Lavadora 00002,Producto Terminado,Lavadoras,PC,4379.0,1762810.24,2026-02-26,15,0-30
+LV-00002,Lavadora 00002,Producto Terminado,Lavadoras,PC,2966.0,822412.48,2026-01-28,44,31-60
+LV-00002,Lavadora 00002,Producto Terminado,Lavadoras,PC,4853.0,777353.54,2026-02-07,34,31-60
+LV-00003,Lavadora 00003,Producto Terminado,Lavadoras,PC,703.0,257396.42,2025-12-28,75,61-90
+LV-00003,Lavadora 00003,Producto Terminado,Lavadoras,PC,949.0,44384.73,2025-12-23,80,61-90
+LV-00003,Lavadora 00003,Producto Terminado,Lavadoras,PC,2631.0,1254644.97,2025-04-21,326,121+
+LV-00003,Lavadora 00003,Producto Terminado,Lavadoras,PC,7189.0,194462.45,2026-01-14,58,31-60
+LV-00004,Lavadora 00004,Producto Terminado,Lavadoras,PC,6282.0,2985457.68,2026-01-17,55,31-60
+LV-00005,Lavadora 00005,Producto Terminado,Lavadoras,PC,6087.0,1170469.23,2025-11-28,105,91-120
+LV-00006,Lavadora 00006,Producto Terminado,Lavadoras,PC,5160.0,1693924.8,2026-02-23,18,0-30
+LV-00007,Lavadora 00007,Producto Terminado,Lavadoras,PC,8186.0,2158648.2,2026-02-07,34,31-60
+LV-00007,Lavadora 00007,Producto Terminado,Lavadoras,PC,4274.0,1517184.52,2026-02-12,29,0-30
+LV-00008,Lavadora 00008,Producto Terminado,Lavadoras,PC,3289.0,230526.01,2026-02-22,19,0-30
+LV-00008,Lavadora 00008,Producto Terminado,Lavadoras,PC,7302.0,3641215.32,2025-03-27,351,121+
+LV-00009,Lavadora 00009,Producto Terminado,Lavadoras,PC,8892.0,1354073.76,2025-12-10,93,91-120
+LV-00009,Lavadora 00009,Producto Terminado,Lavadoras,PC,2862.0,1141680.42,2026-01-06,66,61-90
+LV-00009,Lavadora 00009,Producto Terminado,Lavadoras,PC,2285.0,287910.0,2026-02-03,38,31-60
+LV-00010,Lavadora 00010,Producto Terminado,Lavadoras,PC,7667.0,3095857.93,2026-03-13,0,0-30
+LV-00010,Lavadora 00010,Producto Terminado,Lavadoras,PC,1087.0,175604.85,2026-02-24,17,0-30
+LV-00010,Lavadora 00010,Producto Terminado,Lavadoras,PC,6718.0,2777489.92,2026-02-19,22,0-30
+LV-00010,Lavadora 00010,Producto Terminado,Lavadoras,PC,7382.0,1758835.32,2026-02-06,35,31-60
+LV-00011,Lavadora 00011,Producto Terminado,Lavadoras,PC,9640.0,955902.4,2025-12-16,87,61-90
+LV-00011,Lavadora 00011,Producto Terminado,Lavadoras,PC,917.0,382737.46,2025-12-29,74,61-90
+LV-00011,Lavadora 00011,Producto Terminado,Lavadoras,PC,5296.0,2478633.92,2026-02-25,16,0-30
+LV-00012,Lavadora 00012,Producto Terminado,Lavadoras,PC,1302.0,172905.6,2025-04-10,337,121+
+LV-00012,Lavadora 00012,Producto Terminado,Lavadoras,PC,4971.0,1546328.97,2026-01-03,69,61-90
+LV-00013,Lavadora 00013,Producto Terminado,Lavadoras,PC,9523.0,814787.88,2026-01-06,66,61-90
+LV-00014,Lavadora 00014,Producto Terminado,Lavadoras,PC,474.0,23605.2,2025-12-24,79,61-90
+LV-00014,Lavadora 00014,Producto Terminado,Lavadoras,PC,3463.0,1336060.03,2026-01-21,51,31-60
+LV-00014,Lavadora 00014,Producto Terminado,Lavadoras,PC,8948.0,1359559.12,2026-02-28,13,0-30
+LV-00015,Lavadora 00015,Producto Terminado,Lavadoras,PC,6663.0,1037695.62,2026-02-03,38,31-60
+LV-00015,Lavadora 00015,Producto Terminado,Lavadoras,PC,6819.0,1686202.32,2025-12-07,96,91-120
+LV-00015,Lavadora 00015,Producto Terminado,Lavadoras,PC,5241.0,1937912.16,2026-03-07,6,0-30
